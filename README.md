@@ -1,5 +1,5 @@
 # RockPaperScissors
-<img src = "/gui-screenshot.PNG" width = "70%">
+<img src = "/gui-screenshot.PNG" width = "50%">
 
 A Rock Paper Scissors game application made with Java Swing
 
